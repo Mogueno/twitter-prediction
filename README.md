@@ -2,9 +2,7 @@
 
 This app uses [brain.js](https://brain.js.org) and [Twitter API](https://developer.twitter.com/en/docs) to predict what is the most probable answer to your tweets.
 
-
 # Next.js template
-
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -40,3 +38,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Coolor Pallete
+
+https://coolors.co/1d9bf0-475b5a-55dbcb-d3c1d2-ffe2fe
